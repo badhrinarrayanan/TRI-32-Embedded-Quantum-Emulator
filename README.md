@@ -6,7 +6,7 @@ TRI-32 is an ESP32-based educational testbed that demonstrates BB84-inspired Qua
 
 ## Hardware Demonstration
 
-![TRI-32 Hardware Setup](assets/tri32-hardware-1.jpg)
+![TRI-32 Hardware Setup](assets/tri32-hardware-1.jpg.jpeg)
 
 *TRI-32 prototype with ESP32 boards, OLED display, push buttons, and supporting circuitry.*
 
