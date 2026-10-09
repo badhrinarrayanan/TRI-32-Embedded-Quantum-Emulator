@@ -10,7 +10,7 @@ TRI-32 is an ESP32-based educational testbed that demonstrates BB84-inspired Qua
 
 *TRI-32 prototype with ESP32 boards, OLED display, push buttons, and supporting circuitry.*
 
-![TRI-32 Hardware Alternate View](assets/tri32-hardware-2.jpg)
+![TRI-32 Hardware Alternate View](assets/tri32-hardware-2.jpg.jpeg)
 
 *Physical arrangement of the three-node embedded testbed.*
 
@@ -129,11 +129,11 @@ This module is a software approximation and does not execute a quantum search on
 
 ### Video 1 — Hardware and BB84 Exchange
 
-[Watch Video 1](VIDEO_1_URL)
+[Watch Video 1](assets/VIDEO_1_URL.mp4)
 
 ### Video 2 — Eve Attack and QBER Monitoring
 
-[Watch Video 2](VIDEO_2_URL(1)(1))
+[Watch Video 2](assets/VIDEO_2_URL (1) (1).mp4)
 
 Replace `VIDEO_1_URL` and `VIDEO_2_URL` with your actual video URLs.
 
