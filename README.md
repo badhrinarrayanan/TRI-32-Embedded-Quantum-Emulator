@@ -133,7 +133,7 @@ This module is a software approximation and does not execute a quantum search on
 
 ### Video 2 — Eve Attack and QBER Monitoring
 
-[Watch Video 2](VIDEO_2_URL)
+[Watch Video 2](VIDEO_2_URL(1)(1))
 
 Replace `VIDEO_1_URL` and `VIDEO_2_URL` with your actual video URLs.
 
